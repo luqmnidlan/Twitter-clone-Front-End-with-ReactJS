@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Twitter-clone-Front-End-with-ReactJS/static/css/main.ff79ec8e.css",
+    "main.js": "/Twitter-clone-Front-End-with-ReactJS/static/js/main.dde934ee.js",
+    "index.html": "/Twitter-clone-Front-End-with-ReactJS/index.html",
+    "main.ff79ec8e.css.map": "/Twitter-clone-Front-End-with-ReactJS/static/css/main.ff79ec8e.css.map",
+    "main.dde934ee.js.map": "/Twitter-clone-Front-End-with-ReactJS/static/js/main.dde934ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79ec8e.css",
+    "static/js/main.dde934ee.js"
+  ]
+}
